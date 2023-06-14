@@ -7,7 +7,7 @@ export default function PageHeader({ title }) {
 				className={`${styles.headerTitle} font-extrabold my-auto mx-0 text-center`}
 			>
 				{title}
-			</h1>
+			Go</h1>
 		</header>
 	);
 }
